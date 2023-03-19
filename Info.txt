@@ -1,0 +1,16 @@
+Hello I'm Jack,
+
+Thank you for your interest in our job opening. As a next step, we are expecting you to complete a short assignment.
+
+An Effective Implementation of a feed of videos using React Native (should be able to pre-load videos faster on scroll and load videos more faster in general) without janks and lag.
+
+To get an overview of the project: - Android link: https://play.google.com/store/apps/dev?id=8674763035265125199
+- iOS link: https://apps.apple.com/us/developer/flick-app/id1602904236 
+
+Once done with your implementation you're going fill this form: https://forms.gle/bhwc7KBBcqVvYgyr6
+
+From there our Lead Mobile Engineer called Michael will reach out to you and you'll demo your implementation and when we like it we'll onboard you to join us.
+
+NB: consume this API to implement your version of the feed of videos: https://api.socialverseapp.com/feed?page=1,
+
+also you can use your preferred React Native Video Library to implement your solution.
